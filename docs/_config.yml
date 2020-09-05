@@ -21,7 +21,7 @@
 title: Howdy!
 email: darvy.coreas.269@my.csun.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Howdy! Welcome to my shitty blog!
+  Howdy! Welcome to my blog!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
